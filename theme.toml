@@ -1,2 +1,4 @@
 [flavor]
-use = "catppuccin-latte"
+# The dark mode switching does not work in wezterm ATM. It's always dark mode.
+# dark  = "catppuccin-mocha"
+# light = "catppuccin-latte"
