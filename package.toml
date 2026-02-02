@@ -1,14 +1,14 @@
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "d078b01"
+rev = "230b9c6"
 hash = "270915fa8282a19908449530ff66f7e2"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-latte"
-rev = "ac51f0f"
+rev = "9e053d0"
 hash = "c6b710b2aa0fb9c6c7f1ec4db6146104"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
-rev = "ac51f0f"
+rev = "9e053d0"
 hash = "8eabb4e88096f10905a6df62cfaadbf4"
