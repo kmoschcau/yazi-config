@@ -1,12 +1,12 @@
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "598cdb6"
-hash = "2ea53389fd01aa5ff48f34bceb5cedbc"
+rev = "ae1335e"
+hash = "88e56a64b7ce7c4314427452343fef17"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:vcs-files"
-rev = "598cdb6"
-hash = "df49f99303fdcbad1301e39245816ce0"
+rev = "ae1335e"
+hash = "bc5da419b4337d0122ac531e705fa7b6"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-latte"
