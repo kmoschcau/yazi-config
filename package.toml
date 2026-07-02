@@ -1,11 +1,11 @@
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "39aaf6d"
+rev = "65559fd"
 hash = "2ea53389fd01aa5ff48f34bceb5cedbc"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:vcs-files"
-rev = "39aaf6d"
+rev = "65559fd"
 hash = "2e4366828e8fcd7f36405d65a249082e"
 
 [[flavor.deps]]
