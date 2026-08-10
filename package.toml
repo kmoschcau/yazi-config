@@ -1,19 +1,19 @@
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "bbac5e7"
-hash = "88e56a64b7ce7c4314427452343fef17"
+rev = "0be29a9"
+hash = "6d514dfa166d04b16c5381eb4ec5baab"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:vcs-files"
-rev = "bbac5e7"
-hash = "bc5da419b4337d0122ac531e705fa7b6"
+rev = "0be29a9"
+hash = "a25e34e3f6fd4c6c7f24f23387becfe3"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-latte"
-rev = "4770a34"
-hash = "b8f46853c27707115f25f3423a47bd38"
+rev = "be0b21d"
+hash = "273ee53369ccfbf7feb9b0c65e387ed8"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
-rev = "4770a34"
-hash = "7dfe41c9c3d9be76da8a844263d0bbed"
+rev = "be0b21d"
+hash = "ce320f877fe709b189433941aba747c4"
