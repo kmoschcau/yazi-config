@@ -1,15 +1,12 @@
 [opener]
-edit = [
-  { run = 'nvim "$@"', block = true, desc = "Edit with neovim.", for = "unix" },
-  { run = 'nvim %*', block = true, desc = "Edit with neovim.", for = "windows" },
-]
+edit = [{ run = "nvim %s", block = true, desc = "Edit with neovim." }]
 
 [[plugin.prepend_fetchers]]
 group = "git"
-run   = "git"
-url   = "*"
+run = "git"
+url = "*"
 
 [[plugin.prepend_fetchers]]
 group = "git"
-run   = "git"
-url   = "*/"
+run = "git"
+url = "*/"
